@@ -1,3 +1,4 @@
+#jogo par ou impar
 jogador1 = int(input('informe um numero: '))
 jogador2 = int(input('informe um numero: '))
 

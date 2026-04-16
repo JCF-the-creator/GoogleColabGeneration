@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime 
 
-url = "https://script.google.com/macros/s/AKfycbzUvH8NVsaUvzfYFFBTmz_4xmdTj9wGNu-jK_kCkES_4QublVq-9EL-vs7oM3IQ01zrHg/exec"
+url = ""#inserir o link do gs do google sheets, retirado por segurança
 
 def enviar_dados(placa, carro, funcionario):
     # vou colocar aqui a data e hora

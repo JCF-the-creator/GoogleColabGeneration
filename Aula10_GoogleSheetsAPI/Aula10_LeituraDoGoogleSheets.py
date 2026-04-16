@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_URL = 'https://script.google.com/macros/s/AKfycbwe4hhMYQ6yYqzwA7psapZ7NrZze2wQNjtPg8v7PxzS14LC0vv7QaS5sITq_jBg54I5Jw/exec'  # Replace with your actual Google Apps Script web app URL
+API_URL = ''  # Replace with your actual Google Apps Script web app URL
 
 def send_message(name, email):
     response = requests.post(
